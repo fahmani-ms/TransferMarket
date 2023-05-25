@@ -1,0 +1,701 @@
+,club_id,name,country_id,foundation_date,value,stadium,squad_size,average_age,national_players,current_transform_record,foriegners
+0,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+1,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+2,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+3,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+4,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+5,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+6,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+7,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+8,c-2990,Académica Coimbra,n-136,,,Estádio Cidade de Coimbra,26,25.3,0,150000.0,6
+9,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+10,c-4750,SC Olhanense,n-136,,,Estádio José Arcanjo,21,23.0,0,0.0,10
+11,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+12,c-2639,União de Leiria,n-136,,275k,Estádio Municipal de Leiria - Dr. Magalhães Pessoa,29,25.8,1,0.0,10
+13,c-4814,Associação Naval 1893,n-136,,,Estádio Municipal José Bento Pessoa,0,,0,0.0,
+14,c-1436,SC Beira-Mar,n-136,,,Estádio Mário Duarte,27,26.8,1,0.0,6
+15,c-7378,Portimonense SC,n-136,,19.75m,Portimonense Estádio,32,25.2,3,12100000.0,23
+16,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+17,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+18,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+19,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+20,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+21,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+22,c-2990,Académica Coimbra,n-136,,,Estádio Cidade de Coimbra,26,25.3,0,150000.0,6
+23,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+24,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+25,c-2639,União de Leiria,n-136,,275k,Estádio Municipal de Leiria - Dr. Magalhães Pessoa,29,25.8,1,0.0,10
+26,c-1436,SC Beira-Mar,n-136,,,Estádio Mário Duarte,27,26.8,1,0.0,6
+27,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+28,c-4750,SC Olhanense,n-136,,,Estádio José Arcanjo,21,23.0,0,0.0,10
+29,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+30,c-3349,CD Feirense,n-136,,6.03m,Estádio Marcolino de Castro,24,25.0,2,325000.0,11
+31,c-2424,Gil Vicente FC,n-136,,28.55m,Estádio Cidade de Barcelos,25,25.7,4,5350000.0,17
+32,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+33,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+34,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+35,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+36,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+37,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+38,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+39,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+40,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+41,c-2990,Académica Coimbra,n-136,,,Estádio Cidade de Coimbra,26,25.3,0,150000.0,6
+42,c-1436,SC Beira-Mar,n-136,,,Estádio Mário Duarte,27,26.8,1,0.0,6
+43,c-1465,GD Estoril Praia,n-136,,22.43m,Estádio António Coimbra da Mota,29,24.4,2,6740000.0,14
+44,c-4750,SC Olhanense,n-136,,,Estádio José Arcanjo,21,23.0,0,0.0,10
+45,c-2424,Gil Vicente FC,n-136,,28.55m,Estádio Cidade de Barcelos,25,25.7,4,5350000.0,17
+46,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+47,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+48,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+49,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+50,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+51,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+52,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+53,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+54,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+55,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+56,c-1465,GD Estoril Praia,n-136,,22.43m,Estádio António Coimbra da Mota,29,24.4,2,6740000.0,14
+57,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+58,c-2990,Académica Coimbra,n-136,,,Estádio Cidade de Coimbra,26,25.3,0,150000.0,6
+59,c-68608,CF Os Belenenses,n-136,,,Estádio do Restelo,30,25.7,0,0.0,5
+60,c-2424,Gil Vicente FC,n-136,,28.55m,Estádio Cidade de Barcelos,25,25.7,4,5350000.0,17
+61,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+62,c-8024,FC Arouca,n-136,,15.30m,Estádio Municipal de Arouca,27,25.9,2,4000000.0,21
+63,c-4750,SC Olhanense,n-136,,,Estádio José Arcanjo,21,23.0,0,0.0,10
+64,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+65,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+66,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+67,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+68,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+69,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+70,c-1465,GD Estoril Praia,n-136,,22.43m,Estádio António Coimbra da Mota,29,24.4,2,6740000.0,14
+71,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+72,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+73,c-68608,CF Os Belenenses,n-136,,,Estádio do Restelo,30,25.7,0,0.0,5
+74,c-2424,Gil Vicente FC,n-136,,28.55m,Estádio Cidade de Barcelos,25,25.7,4,5350000.0,17
+75,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+76,c-8024,FC Arouca,n-136,,15.30m,Estádio Municipal de Arouca,27,25.9,2,4000000.0,21
+77,c-2990,Académica Coimbra,n-136,,,Estádio Cidade de Coimbra,26,25.3,0,150000.0,6
+78,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+79,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+80,c-3327,FC Penafiel,n-136,,6.18m,Estádio Municipal 25 de Abril,28,27.9,0,0.0,4
+81,c-2503,Boavista FC,n-136,,20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+82,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+83,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+84,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+85,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+86,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+87,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+88,c-68608,CF Os Belenenses,n-136,,,Estádio do Restelo,30,25.7,0,0.0,5
+89,c-1465,GD Estoril Praia,n-136,,22.43m,Estádio António Coimbra da Mota,29,24.4,2,6740000.0,14
+90,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+91,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+92,c-8024,FC Arouca,n-136,,15.30m,Estádio Municipal de Arouca,27,25.9,2,4000000.0,21
+93,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+94,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+95,c-2990,Académica Coimbra,n-136,,,Estádio Cidade de Coimbra,26,25.3,0,150000.0,6
+96,c-2503,Boavista FC,n-136,,20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+97,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+98,c-7179,CD Tondela,n-136,,7.25m,Estádio João Cardoso,26,22.8,2,50000.0,12
+99,c-976,CF União Madeira (-2021),n-136,,,Centro Desportivo da Madeira,0,,0,0.0,
+100,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+101,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+102,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+103,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+104,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+105,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+106,c-68608,CF Os Belenenses,n-136,,,Estádio do Restelo,30,25.7,0,0.0,5
+107,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+108,c-1465,GD Estoril Praia,n-136,,22.43m,Estádio António Coimbra da Mota,29,24.4,2,6740000.0,14
+109,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+110,c-2503,Boavista FC,n-136,,20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+111,c-3325,GD Chaves,n-136,,11.83m,Estádio Municipal Eng.º Manuel Branco Teixeira,27,26.4,3,4500000.0,17
+112,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+113,c-8024,FC Arouca,n-136,,15.30m,Estádio Municipal de Arouca,27,25.9,2,4000000.0,21
+114,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+115,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+116,c-3349,CD Feirense,n-136,,6.03m,Estádio Marcolino de Castro,24,25.0,2,325000.0,11
+117,c-7179,CD Tondela,n-136,,7.25m,Estádio João Cardoso,26,22.8,2,50000.0,12
+118,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+119,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+120,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+121,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+122,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+123,c-7378,Portimonense SC,n-136,,19.75m,Portimonense Estádio,32,25.2,3,12100000.0,23
+124,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+125,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+126,c-1465,GD Estoril Praia,n-136,,22.43m,Estádio António Coimbra da Mota,29,24.4,2,6740000.0,14
+127,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+128,c-3325,GD Chaves,n-136,,11.83m,Estádio Municipal Eng.º Manuel Branco Teixeira,27,26.4,3,4500000.0,17
+129,c-68608,CF Os Belenenses,n-136,,,Estádio do Restelo,30,25.7,0,0.0,5
+130,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+131,c-7179,CD Tondela,n-136,,7.25m,Estádio João Cardoso,26,22.8,2,50000.0,12
+132,c-2503,Boavista FC,n-136,,20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+133,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+134,c-3349,CD Feirense,n-136,,6.03m,Estádio Marcolino de Castro,24,25.0,2,325000.0,11
+135,c-3336,Desportivo Aves (- 2020),n-136,,,Estádio CD das Aves,0,,0,0.0,
+136,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+137,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+138,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+139,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+140,c-7378,Portimonense SC,n-136,,19.75m,Portimonense Estádio,32,25.2,3,12100000.0,23
+141,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+142,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+143,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+144,c-3325,GD Chaves,n-136,,11.83m,Estádio Municipal Eng.º Manuel Branco Teixeira,27,26.4,3,4500000.0,17
+145,c-2423,CD Santa Clara,n-136,,23.40m,Estádio de São Miguel,31,25.8,2,5850000.0,20
+146,c-2503,Boavista FC,n-136,,20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+147,c-2457,B SAD,n-136,,5.60m,Estádio Nacional do Jamor,25,24.2,4,1800000.0,13
+148,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+149,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+150,c-7179,CD Tondela,n-136,,7.25m,Estádio João Cardoso,26,22.8,2,50000.0,12
+151,c-3336,Desportivo Aves (- 2020),n-136,,,Estádio CD das Aves,0,,0,0.0,
+152,c-3349,CD Feirense,n-136,,6.03m,Estádio Marcolino de Castro,24,25.0,2,325000.0,11
+153,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+154,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+155,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+156,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+157,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+158,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+159,c-3329,FC Famalicão,n-136,,39.60m,Estádio Municipal de Famalicão,30,24.3,4,2200000.0,19
+160,c-7378,Portimonense SC,n-136,,19.75m,Portimonense Estádio,32,25.2,3,12100000.0,23
+161,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+162,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+163,c-2457,B SAD,n-136,,5.60m,Estádio Nacional do Jamor,25,24.2,4,1800000.0,13
+164,c-2503,Boavista FC,n-136,,20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+165,c-2423,CD Santa Clara,n-136,,23.40m,Estádio de São Miguel,31,25.8,2,5850000.0,20
+166,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+167,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+168,c-3336,Desportivo Aves (- 2020),n-136,,,Estádio CD das Aves,0,,0,0.0,
+169,c-1085,Vitória Setúbal FC,n-136,,375k,Estádio do Bonfim,29,26.0,0,0.0,10
+170,c-7179,CD Tondela,n-136,,7.25m,Estádio João Cardoso,26,22.8,2,50000.0,12
+171,c-2424,Gil Vicente FC,n-136,,28.55m,Estádio Cidade de Barcelos,25,25.7,4,5350000.0,17
+172,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+173,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+174,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+175,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+176,c-3329,FC Famalicão,n-136,,39.60m,Estádio Municipal de Famalicão,30,24.3,4,2200000.0,19
+177,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+178,c-2503,Boavista FC,n-136,,20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+179,c-2425,Rio Ave FC,n-136,,12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+180,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+181,c-7378,Portimonense SC,n-136,,19.75m,Portimonense Estádio,32,25.2,3,12100000.0,23
+182,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+183,c-2423,CD Santa Clara,n-136,,23.40m,Estádio de São Miguel,31,25.8,2,5850000.0,20
+184,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+185,c-4294,SC Farense,n-136,,7.60m,Estádio São Luís ,28,27.6,1,0.0,15
+186,c-2457,B SAD,n-136,,5.60m,Estádio Nacional do Jamor,25,24.2,4,1800000.0,13
+187,c-2424,Gil Vicente FC,n-136,,28.55m,Estádio Cidade de Barcelos,25,25.7,4,5350000.0,17
+188,c-7179,CD Tondela,n-136,,7.25m,Estádio João Cardoso,26,22.8,2,50000.0,12
+189,c-982,CD Nacional,n-136,,5.28m,Estádio da Madeira,27,25.0,2,0.0,12
+190,c-720,FC Porto,n-136,,279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+191,c-336,Sporting CP,n-136,,234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+192,c-294,SL Benfica,n-136,,313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+193,c-1075,SC Braga,n-136,,111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+194,c-2420,Vitória Guimarães SC,n-136,,39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+195,c-3329,FC Famalicão,n-136,,39.60m,Estádio Municipal de Famalicão,30,24.3,4,2200000.0,19
+196,c-2503,Boavista FC,n-136,,20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+197,c-7378,Portimonense SC,n-136,,19.75m,Portimonense Estádio,32,25.2,3,12100000.0,23
+198,c-1465,GD Estoril Praia,n-136,,22.43m,Estádio António Coimbra da Mota,29,24.4,2,6740000.0,14
+199,c-2423,CD Santa Clara,n-136,,23.40m,Estádio de São Miguel,31,25.8,2,5850000.0,20
+200,c-2424,Gil Vicente FC,n-136,,28.55m,Estádio Cidade de Barcelos,25,25.7,4,5350000.0,17
+201,c-2995,FC Paços de Ferreira,n-136,,15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+202,c-7179,CD Tondela,n-136,,7.25m,Estádio João Cardoso,26,22.8,2,50000.0,12
+203,c-2457,B SAD,n-136,,5.60m,Estádio Nacional do Jamor,25,24.2,4,1800000.0,13
+204,c-979,Moreirense FC,n-136,,9.73m,E. C. J. de Almeida Freitas,25,26.6,1,1000000.0,16
+205,c-6912,FC Vizela,n-136,,14.85m,Estádio do Vizela,26,24.9,4,900000.0,19
+206,c-8024,FC Arouca,n-136,,15.30m,Estádio Municipal de Arouca,27,25.9,2,4000000.0,21
+207,c-1301,CS Marítimo,n-136,,16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+208,c-294,SL Benfica,n-136,"Feb 28, 1904",313.00m,Estádio da Luz,24,25.0,10,148170000.0,14
+209,c-720,FC Porto,n-136,"Sep 28, 1893",279.30m,Estádio do Dragão,28,26.6,9,35740000.0,15
+210,c-336,Sporting CP,n-136,"Jul 1, 1906",234.50m,Estádio José Alvalade XXI,33,24.5,7,71530000.0,16
+211,c-1075,SC Braga,n-136,"Jan 19, 1921",111.30m,Estádio Municipal de Braga,25,25.9,3,48730000.0,14
+212,c-3329,FC Famalicão,n-136,9.000,39.60m,Estádio Municipal de Famalicão,30,24.3,4,2200000.0,19
+213,c-2420,Vitória Guimarães SC,n-136,"Sep 22, 1922",39.50m,Estádio D. Afonso Henriques,29,24.1,4,13490000.0,12
+214,c-2424,Gil Vicente FC,n-136,"May 3, 1924",28.55m,Estádio Cidade de Barcelos,25,25.7,4,5350000.0,17
+215,c-2423,CD Santa Clara,n-136,"Jan 31, 1921",23.40m,Estádio de São Miguel,31,25.8,2,5850000.0,20
+216,c-1465,GD Estoril Praia,n-136,"May 17, 1939",22.43m,Estádio António Coimbra da Mota,29,24.4,2,6740000.0,14
+217,c-2503,Boavista FC,n-136,"Aug 1, 1903",20.45m,Estádio do Bessa Sec. XXI,28,25.6,8,12250000.0,16
+218,c-7378,Portimonense SC,n-136,"Aug 14, 1914",19.75m,Portimonense Estádio,32,25.2,3,12100000.0,23
+219,c-1301,CS Marítimo,n-136,"Sep 20, 1910",16.75m,Estádio do Marítimo,29,26.6,4,-750000.0,18
+220,c-3268,Casa Pia AC,n-136,,15.65m,Estádio Nacional do Jamor,28,26.8,4,190000.0,19
+221,c-2995,FC Paços de Ferreira,n-136,"Apr 5, 1950",15.38m,Estádio Capital do Móvel,28,25.7,2,4960000.0,12
+222,c-8024,FC Arouca,n-136,"Dec 25, 1951",15.30m,Estádio Municipal de Arouca,27,25.9,2,4000000.0,21
+223,c-6912,FC Vizela,n-136,"Jan 1, 1939",14.85m,Estádio do Vizela,26,24.9,4,900000.0,19
+224,c-2425,Rio Ave FC,n-136,"May 10, 1939",12.88m,Estádio dos Arcos,24,27.4,0,600000.0,12
+225,c-3325,GD Chaves,n-136,"Sep 27, 1949",11.83m,Estádio Municipal Eng.º Manuel Branco Teixeira,27,26.4,3,4500000.0,17
+226,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+227,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+228,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+229,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+230,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+231,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+232,c-524,Gaziantepspor (- 2020),n-174,,,Gaziantep Stadyumu,0,,0,0.0,
+233,c-868,MKE Ankaragücü,n-174,,29.95m,Eryaman Stadyumu,31,26.0,4,-1550000.0,16
+234,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+235,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+236,c-825,Eskisehirspor,n-174,,125k,Eskişehir Yeni Stadyum,41,23.9,0,0.0,1
+237,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+238,c-1267,Manisaspor,n-174,,,Manisa 19 Mayıs,2,20.0,0,0.0,0
+239,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+240,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+241,c-1506,Kardemir Karabükspor,n-174,,,Dr. Necmettin Şeyhoğlu,0,,0,0.0,
+242,c-2750,Buca Gelistirme Spor,n-174,,,Yeni Buca Stadı ,0,,0,0.0,
+243,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+244,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+245,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+246,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+247,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+248,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+249,c-524,Gaziantepspor (- 2020),n-174,,,Gaziantep Stadyumu,0,,0,0.0,
+250,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+251,c-825,Eskisehirspor,n-174,,125k,Eskişehir Yeni Stadyum,41,23.9,0,0.0,1
+252,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+253,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+254,c-2323,Orduspor,n-174,,,19 Eylül Stadyum,2,21.0,0,0.0,0
+255,c-1506,Kardemir Karabükspor,n-174,,,Dr. Necmettin Şeyhoğlu,0,,0,0.0,
+256,c-1267,Manisaspor,n-174,,,Manisa 19 Mayıs,2,20.0,0,0.0,0
+257,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+258,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+259,c-152,Samsunspor,n-174,,15.50m,Samsun Yeni 19 Mayıs Stadyumu,34,25.5,0,-503000.0,11
+260,c-3216,Mersin Talimyurdu SK,n-174,,,Mersin Stadyumu,0,,0,0.0,
+261,c-868,MKE Ankaragücü,n-174,,29.95m,Eryaman Stadyumu,31,26.0,4,-1550000.0,16
+262,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+263,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+264,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+265,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+266,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+267,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+268,c-524,Gaziantepspor (- 2020),n-174,,,Gaziantep Stadyumu,0,,0,0.0,
+269,c-825,Eskisehirspor,n-174,,125k,Eskişehir Yeni Stadyum,41,23.9,0,0.0,1
+270,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+271,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+272,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+273,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+274,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+275,c-1506,Kardemir Karabükspor,n-174,,,Dr. Necmettin Şeyhoğlu,0,,0,0.0,
+276,c-3216,Mersin Talimyurdu SK,n-174,,,Mersin Stadyumu,0,,0,0.0,
+277,c-2323,Orduspor,n-174,,,19 Eylül Stadyum,2,21.0,0,0.0,0
+278,c-2292,Elazigspor,n-174,,325k, Elazığ Doğukent Stadı,33,24.9,0,17000.0,0
+279,c-19771,Akhisarspor,n-174,,,Spor Toto Akhisar Stadyumu,14,21.0,0,5000.0,0
+280,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+281,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+282,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+283,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+284,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+285,c-825,Eskisehirspor,n-174,,125k,Eskişehir Yeni Stadyum,41,23.9,0,0.0,1
+286,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+287,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+288,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+289,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+290,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+291,c-1506,Kardemir Karabükspor,n-174,,,Dr. Necmettin Şeyhoğlu,0,,0,0.0,
+292,c-524,Gaziantepspor (- 2020),n-174,,,Gaziantep Stadyumu,0,,0,0.0,
+293,c-6894,Kayseri Erciyesspor,n-174,,,Kayseri Atatürk Spor Kompleksi Yan Açık Saha,0,,0,0.0,
+294,c-126,Caykur Rizespor,n-174,,11.43m,Çaykur Didi,32,26.9,1,-529000.0,9
+295,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+296,c-2292,Elazigspor,n-174,,325k, Elazığ Doğukent Stadı,33,24.9,0,17000.0,0
+297,c-19771,Akhisarspor,n-174,,,Spor Toto Akhisar Stadyumu,14,21.0,0,5000.0,0
+298,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+299,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+300,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+301,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+302,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+303,c-825,Eskisehirspor,n-174,,125k,Eskişehir Yeni Stadyum,41,23.9,0,0.0,1
+304,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+305,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+306,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+307,c-126,Caykur Rizespor,n-174,,11.43m,Çaykur Didi,32,26.9,1,-529000.0,9
+308,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+309,c-524,Gaziantepspor (- 2020),n-174,,,Gaziantep Stadyumu,0,,0,0.0,
+310,c-1506,Kardemir Karabükspor,n-174,,,Dr. Necmettin Şeyhoğlu,0,,0,0.0,
+311,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+312,c-19771,Akhisarspor,n-174,,,Spor Toto Akhisar Stadyumu,14,21.0,0,5000.0,0
+313,c-6894,Kayseri Erciyesspor,n-174,,,Kayseri Atatürk Spor Kompleksi Yan Açık Saha,0,,0,0.0,
+314,c-3216,Mersin Talimyurdu SK,n-174,,,Mersin Stadyumu,0,,0,0.0,
+315,c-20698,Balikesirspor,n-174,,985k,Balıkesir Atatürk,22,22.0,0,0.0,1
+316,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+317,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+318,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+319,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+320,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+321,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+322,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+323,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+324,c-2944,Ankaraspor,n-174,,2.41m,Osmanlı Stadı,30,23.8,0,0.0,1
+325,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+326,c-825,Eskisehirspor,n-174,,125k,Eskişehir Yeni Stadyum,41,23.9,0,0.0,1
+327,c-524,Gaziantepspor (- 2020),n-174,,,Gaziantep Stadyumu,0,,0,0.0,
+328,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+329,c-126,Caykur Rizespor,n-174,,11.43m,Çaykur Didi,32,26.9,1,-529000.0,9
+330,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+331,c-19771,Akhisarspor,n-174,,,Spor Toto Akhisar Stadyumu,14,21.0,0,5000.0,0
+332,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+333,c-3216,Mersin Talimyurdu SK,n-174,,,Mersin Stadyumu,0,,0,0.0,
+334,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+335,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+336,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+337,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+338,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+339,c-2944,Ankaraspor,n-174,,2.41m,Osmanlı Stadı,30,23.8,0,0.0,1
+340,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+341,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+342,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+343,c-19771,Akhisarspor,n-174,,,Spor Toto Akhisar Stadyumu,14,21.0,0,5000.0,0
+344,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+345,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+346,c-11282,Alanyaspor,n-174,,38.58m,Kırbıyık Holding Stadyumu,30,25.9,4,0.0,14
+347,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+348,c-126,Caykur Rizespor,n-174,,11.43m,Çaykur Didi,32,26.9,1,-529000.0,9
+349,c-524,Gaziantepspor (- 2020),n-174,,,Gaziantep Stadyumu,0,,0,0.0,
+350,c-1506,Kardemir Karabükspor,n-174,,,Dr. Necmettin Şeyhoğlu,0,,0,0.0,
+351,c-6,Adanaspor,n-174,,1.08m,Yeni Adana Stadyumu,10,23.9,0,0.0,4
+352,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+353,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+354,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+355,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+356,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+357,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+358,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+359,c-11282,Alanyaspor,n-174,,38.58m,Kırbıyık Holding Stadyumu,30,25.9,4,0.0,14
+360,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+361,c-2944,Ankaraspor,n-174,,2.41m,Osmanlı Stadı,30,23.8,0,0.0,1
+362,c-1467,Göztepe,n-174,,9.03m,Gürsel Aksel Stadyumu,31,23.3,0,1600000.0,10
+363,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+364,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+365,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+366,c-19789,Yeni Malatyaspor,n-174,,875k,Yeni Malatya Stadyumu,10,23.0,0,778000.0,1
+367,c-19771,Akhisarspor,n-174,,,Spor Toto Akhisar Stadyumu,14,21.0,0,5000.0,0
+368,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+369,c-1506,Kardemir Karabükspor,n-174,,,Dr. Necmettin Şeyhoğlu,0,,0,0.0,
+370,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+371,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+372,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+373,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+374,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+375,c-11282,Alanyaspor,n-174,,38.58m,Kırbıyık Holding Stadyumu,30,25.9,4,0.0,14
+376,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+377,c-126,Caykur Rizespor,n-174,,11.43m,Çaykur Didi,32,26.9,1,-529000.0,9
+378,c-20,Bursaspor,n-174,,1.94m,Bursa Büyükşehir Belediye Stadyumu,26,21.4,0,0.0,0
+379,c-19789,Yeni Malatyaspor,n-174,,875k,Yeni Malatya Stadyumu,10,23.0,0,778000.0,1
+380,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+381,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+382,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+383,c-868,MKE Ankaragücü,n-174,,29.95m,Eryaman Stadyumu,31,26.0,4,-1550000.0,16
+384,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+385,c-1467,Göztepe,n-174,,9.03m,Gürsel Aksel Stadyumu,31,23.3,0,1600000.0,10
+386,c-39722,Erzurumspor FK,n-174,,3.43m,Erzurum Kazım Karabekir,28,26.1,1,70000.0,7
+387,c-19771,Akhisarspor,n-174,,,Spor Toto Akhisar Stadyumu,14,21.0,0,5000.0,0
+388,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+389,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+390,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+391,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+392,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+393,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+394,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+395,c-126,Caykur Rizespor,n-174,,11.43m,Çaykur Didi,32,26.9,1,-529000.0,9
+396,c-19789,Yeni Malatyaspor,n-174,,875k,Yeni Malatya Stadyumu,10,23.0,0,778000.0,1
+397,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+398,c-11282,Alanyaspor,n-174,,38.58m,Kırbıyık Holding Stadyumu,30,25.9,4,0.0,14
+399,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+400,c-2832,Gaziantep FK,n-174,,1.75m,Kalyon Stadyumu,6,23.0,0,192000.0,3
+401,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+402,c-1467,Göztepe,n-174,,9.03m,Gürsel Aksel Stadyumu,31,23.3,0,1600000.0,10
+403,c-833,Denizlispor,n-174,,2.58m,Denizli Atatürk Stadı,26,25.9,1,0.0,3
+404,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+405,c-868,MKE Ankaragücü,n-174,,29.95m,Eryaman Stadyumu,31,26.0,4,-1550000.0,16
+406,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+407,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+408,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+409,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+410,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+411,c-11282,Alanyaspor,n-174,,38.58m,Kırbıyık Holding Stadyumu,30,25.9,4,0.0,14
+412,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+413,c-6646,Fatih Karagümrük,n-174,,32.38m,Atatürk Olimpiyat,30,26.3,4,1830000.0,17
+414,c-1467,Göztepe,n-174,,9.03m,Gürsel Aksel Stadyumu,31,23.3,0,1600000.0,10
+415,c-7775,Hatayspor,n-174,,7.15m,Yeni Hatay Stadyumu,12,29.5,2,-410000.0,7
+416,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+417,c-126,Caykur Rizespor,n-174,,11.43m,Çaykur Didi,32,26.9,1,-529000.0,9
+418,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+419,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+420,c-19789,Yeni Malatyaspor,n-174,,875k,Yeni Malatya Stadyumu,10,23.0,0,778000.0,1
+421,c-2832,Gaziantep FK,n-174,,1.75m,Kalyon Stadyumu,6,23.0,0,192000.0,3
+422,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+423,c-868,MKE Ankaragücü,n-174,,29.95m,Eryaman Stadyumu,31,26.0,4,-1550000.0,16
+424,c-820,Genclerbirligi Ankara,n-174,,6.00m,Eryaman Stadyumu,34,26.1,1,195000.0,10
+425,c-39722,Erzurumspor FK,n-174,,3.43m,Erzurum Kazım Karabekir,28,26.1,1,70000.0,7
+426,c-833,Denizlispor,n-174,,2.58m,Denizli Atatürk Stadı,26,25.9,1,0.0,3
+427,c-36,Fenerbahce,n-174,,172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+428,c-141,Galatasaray,n-174,,176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+429,c-449,Trabzonspor,n-174,,119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+430,c-114,Besiktas JK,n-174,,112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+431,c-6890,Basaksehir FK,n-174,,46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+432,c-11282,Alanyaspor,n-174,,38.58m,Kırbıyık Holding Stadyumu,30,25.9,4,0.0,14
+433,c-2293,Konyaspor,n-174,,36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+434,c-3840,Adana Demirspor,n-174,,38.75m,Yeni Adana Stadyumu,28,27.2,3,6120000.0,15
+435,c-10484,Kasimpasa,n-174,,37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+436,c-3205,Kayserispor,n-174,,25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+437,c-589,Antalyaspor,n-174,,40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+438,c-7775,Hatayspor,n-174,,7.15m,Yeni Hatay Stadyumu,12,29.5,2,-410000.0,7
+439,c-6646,Fatih Karagümrük,n-174,,32.38m,Atatürk Olimpiyat,30,26.3,4,1830000.0,17
+440,c-11688,Giresunspor,n-174,,16.10m,Çotanak Spor Kompleksi,26,25.5,4,284000.0,10
+441,c-2381,Sivasspor,n-174,,25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+442,c-2832,Gaziantep FK,n-174,,1.75m,Kalyon Stadyumu,6,23.0,0,192000.0,3
+443,c-1467,Göztepe,n-174,,9.03m,Gürsel Aksel Stadyumu,31,23.3,0,1600000.0,10
+444,c-126,Caykur Rizespor,n-174,,11.43m,Çaykur Didi,32,26.9,1,-529000.0,9
+445,c-19789,Yeni Malatyaspor,n-174,,875k,Yeni Malatya Stadyumu,10,23.0,0,778000.0,1
+446,c-2375,Altay SK,n-174,,3.98m,Alsancak Mustafa Denizli Stadı,31,25.3,0,1420000.0,3
+447,c-141,Galatasaray,n-174,"Oct 1, 1905",176.43m,Ali Sami Yen Spor Kompleksi NEF Stadyumu,29,25.9,12,-32439999.999999996,16
+448,c-36,Fenerbahce,n-174,"May 3, 1907",172.40m,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,28,26.9,15,-13710000.0,15
+449,c-449,Trabzonspor,n-174,"Aug 2, 1967",119.45m,Şenol Güneş Spor Kompleksi,30,25.7,13,1810000.0,13
+450,c-114,Besiktas JK,n-174,"Mar 3, 1903",112.88m,Vodafone Park,29,27.7,14,-15150000.0,15
+451,c-6890,Basaksehir FK,n-174,"Jun 5, 2014",46.95m,Başakşehir Fatih Terim,29,26.5,7,1850000.0,13
+452,c-589,Antalyaspor,n-174,"Jul 2, 1966",40.40m,Corendon Airlines Park Antalya Stadı,31,26.4,5,2120000.0,17
+453,c-3840,Adana Demirspor,n-174,"Dec 28, 1940",38.75m,Yeni Adana Stadyumu,28,27.2,3,6120000.0,15
+454,c-11282,Alanyaspor,n-174,"Jan 1, 1948",38.58m,Kırbıyık Holding Stadyumu,30,25.9,4,0.0,14
+455,c-10484,Kasimpasa,n-174,"Jan 1, 1921",37.63m,Recep Tayyip Erdoğan Stadyumu,33,27.5,4,4800000.0,17
+456,c-2293,Konyaspor,n-174,"Jun 22, 1922",36.40m,Medaş Konya Büyükşehir Stadyumu,29,26.8,7,6560000.0,15
+457,c-6646,Fatih Karagümrük,n-174,www.karagumruk.com,32.38m,Atatürk Olimpiyat,30,26.3,4,1830000.0,17
+458,c-868,MKE Ankaragücü,n-174,"Aug 31, 1910",29.95m,Eryaman Stadyumu,31,26.0,4,-1550000.0,16
+459,c-2381,Sivasspor,n-174,"May 9, 1967",25.68m,Yeni 4 Eylül Stadı,31,28.5,5,-100000.0,17
+460,c-3205,Kayserispor,n-174,"Jul 1, 1966",25.13m,RHG Enertürk Enerji Stadyumu,28,25.6,3,3000000.0,13
+461,c-11688,Giresunspor,n-174,"Mar 31, 1967",16.10m,Çotanak Spor Kompleksi,26,25.5,4,284000.0,10
+462,c-924,Istanbulspor,n-174,"Jan 4, 1926",15.33m,Esenyurt Necmi Kadıoğlu Stadyumu,34,24.8,5,2000000.0,17
+463,c-24245,Ümraniyespor,n-174,+90 (216) 6302009 ,10.88m,Ümraniye Belediyesi Şehir Stadı,23,28.4,2,0.0,9
+464,c-7775,Hatayspor,n-174,"Nov 30, 1966",7.15m,Yeni Hatay Stadyumu,12,29.5,2,-410000.0,7
+465,c-2832,Gaziantep FK,n-174,"Jun 30, 1988",1.75m,Kalyon Stadyumu,6,23.0,0,192000.0,3
+466,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+467,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+468,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+469,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+470,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+471,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+472,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+473,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+474,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+475,c-192,Roda JC Kerkrade,n-122,,7.90m,Parkstad Limburg Stadion,25,24.0,0,1300000.0,9
+476,c-467,NEC Nijmegen,n-122,,21.68m,Goffertstadion,27,24.2,1,-1000000.0,9
+477,c-132,NAC Breda,n-122,,9.40m,Rat Verlegh Stadion,32,23.7,2,115000.0,10
+478,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+479,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+480,c-1426,VVV-Venlo,n-122,,7.98m,Covebo Stadion - De Koel ,28,22.9,0,0.0,7
+481,c-642,De Graafschap Doetinchem,n-122,,6.40m,"Stadion ""De Vijverberg""",30,23.7,0,0.0,6
+482,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+483,c-798,Excelsior Rotterdam,n-122,,14.68m,Van Donge & De Roo Stadion - Woudestein,28,23.6,1,2630000.0,10
+484,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+485,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+486,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+487,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+488,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+489,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+490,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+491,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+492,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+493,c-192,Roda JC Kerkrade,n-122,,7.90m,Parkstad Limburg Stadion,25,24.0,0,1300000.0,9
+494,c-467,NEC Nijmegen,n-122,,21.68m,Goffertstadion,27,24.2,1,-1000000.0,9
+495,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+496,c-1426,VVV-Venlo,n-122,,7.98m,Covebo Stadion - De Koel ,28,22.9,0,0.0,7
+497,c-132,NAC Breda,n-122,,9.40m,Rat Verlegh Stadion,32,23.7,2,115000.0,10
+498,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+499,c-642,De Graafschap Doetinchem,n-122,,6.40m,"Stadion ""De Vijverberg""",30,23.7,0,0.0,6
+500,c-235,RKC Waalwijk,n-122,,13.68m,Mandemakers Stadion,28,26.1,5,3000000.0,16
+501,c-798,Excelsior Rotterdam,n-122,,14.68m,Van Donge & De Roo Stadion - Woudestein,28,23.6,1,2630000.0,10
+502,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+503,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+504,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+505,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+506,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+507,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+508,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+509,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+510,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+511,c-467,NEC Nijmegen,n-122,,21.68m,Goffertstadion,27,24.2,1,-1000000.0,9
+512,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+513,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+514,c-1426,VVV-Venlo,n-122,,7.98m,Covebo Stadion - De Koel ,28,22.9,0,0.0,7
+515,c-192,Roda JC Kerkrade,n-122,,7.90m,Parkstad Limburg Stadion,25,24.0,0,1300000.0,9
+516,c-132,NAC Breda,n-122,,9.40m,Rat Verlegh Stadion,32,23.7,2,115000.0,10
+517,c-235,RKC Waalwijk,n-122,,13.68m,Mandemakers Stadion,28,26.1,5,3000000.0,16
+518,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+519,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+520,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+521,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+522,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+523,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+524,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+525,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+526,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+527,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+528,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+529,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+530,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+531,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+532,c-467,NEC Nijmegen,n-122,,21.68m,Goffertstadion,27,24.2,1,-1000000.0,9
+533,c-192,Roda JC Kerkrade,n-122,,7.90m,Parkstad Limburg Stadion,25,24.0,0,1300000.0,9
+534,c-132,NAC Breda,n-122,,9.40m,Rat Verlegh Stadion,32,23.7,2,115000.0,10
+535,c-235,RKC Waalwijk,n-122,,13.68m,Mandemakers Stadion,28,26.1,5,3000000.0,16
+536,c-133,SC Cambuur Leeuwarden,n-122,,16.73m,Cambuurstadion,30,25.8,5,-550000.0,12
+537,c-1435,Go Ahead Eagles,n-122,,12.23m,De Adelaarshorst,27,23.4,0,750000.0,11
+538,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+539,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+540,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+541,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+542,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+543,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+544,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+545,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+546,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+547,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+548,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+549,c-132,NAC Breda,n-122,,9.40m,Rat Verlegh Stadion,32,23.7,2,115000.0,10
+550,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+551,c-133,SC Cambuur Leeuwarden,n-122,,16.73m,Cambuurstadion,30,25.8,5,-550000.0,12
+552,c-1435,Go Ahead Eagles,n-122,,12.23m,De Adelaarshorst,27,23.4,0,750000.0,11
+553,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+554,c-798,Excelsior Rotterdam,n-122,,14.68m,Van Donge & De Roo Stadion - Woudestein,28,23.6,1,2630000.0,10
+555,c-1455,FC Dordrecht,n-122,,5.45m,Matchoholic Stadion,29,23.3,1,0.0,12
+556,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+557,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+558,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+559,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+560,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+561,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+562,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+563,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+564,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+565,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+566,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+567,c-467,NEC Nijmegen,n-122,,21.68m,Goffertstadion,27,24.2,1,-1000000.0,9
+568,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+569,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+570,c-192,Roda JC Kerkrade,n-122,,7.90m,Parkstad Limburg Stadion,25,24.0,0,1300000.0,9
+571,c-133,SC Cambuur Leeuwarden,n-122,,16.73m,Cambuurstadion,30,25.8,5,-550000.0,12
+572,c-798,Excelsior Rotterdam,n-122,,14.68m,Van Donge & De Roo Stadion - Woudestein,28,23.6,1,2630000.0,10
+573,c-642,De Graafschap Doetinchem,n-122,,6.40m,"Stadion ""De Vijverberg""",30,23.7,0,0.0,6
+574,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+575,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+576,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+577,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+578,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+579,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+580,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+581,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+582,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+583,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+584,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+585,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+586,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+587,c-192,Roda JC Kerkrade,n-122,,7.90m,Parkstad Limburg Stadion,25,24.0,0,1300000.0,9
+588,c-798,Excelsior Rotterdam,n-122,,14.68m,Van Donge & De Roo Stadion - Woudestein,28,23.6,1,2630000.0,10
+589,c-467,NEC Nijmegen,n-122,,21.68m,Goffertstadion,27,24.2,1,-1000000.0,9
+590,c-468,Sparta Rotterdam,n-122,,18.13m,"Sparta-stadion ""Het Kasteel""",24,26.1,1,2190000.0,9
+591,c-1435,Go Ahead Eagles,n-122,,12.23m,De Adelaarshorst,27,23.4,0,750000.0,11
+592,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+593,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+594,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+595,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+596,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+597,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+598,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+599,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+600,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+601,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+602,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+603,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+604,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+605,c-132,NAC Breda,n-122,,9.40m,Rat Verlegh Stadion,32,23.7,2,115000.0,10
+606,c-468,Sparta Rotterdam,n-122,,18.13m,"Sparta-stadion ""Het Kasteel""",24,26.1,1,2190000.0,9
+607,c-798,Excelsior Rotterdam,n-122,,14.68m,Van Donge & De Roo Stadion - Woudestein,28,23.6,1,2630000.0,10
+608,c-1426,VVV-Venlo,n-122,,7.98m,Covebo Stadion - De Koel ,28,22.9,0,0.0,7
+609,c-192,Roda JC Kerkrade,n-122,,7.90m,Parkstad Limburg Stadion,25,24.0,0,1300000.0,9
+610,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+611,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+612,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+613,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+614,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+615,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+616,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+617,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+618,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+619,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+620,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+621,c-385,Fortuna Sittard,n-122,,22.53m,Fortuna Sittard Stadion,26,25.8,2,400000.0,18
+622,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+623,c-132,NAC Breda,n-122,,9.40m,Rat Verlegh Stadion,32,23.7,2,115000.0,10
+624,c-1426,VVV-Venlo,n-122,,7.98m,Covebo Stadion - De Koel ,28,22.9,0,0.0,7
+625,c-798,Excelsior Rotterdam,n-122,,14.68m,Van Donge & De Roo Stadion - Woudestein,28,23.6,1,2630000.0,10
+626,c-1283,FC Emmen,n-122,,13.58m,De Oude Meerdijk,30,25.8,3,0.0,14
+627,c-642,De Graafschap Doetinchem,n-122,,6.40m,"Stadion ""De Vijverberg""",30,23.7,0,0.0,6
+628,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+629,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+630,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+631,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+632,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+633,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+634,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+635,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+636,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+637,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+638,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+639,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+640,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+641,c-468,Sparta Rotterdam,n-122,,18.13m,"Sparta-stadion ""Het Kasteel""",24,26.1,1,2190000.0,9
+642,c-1283,FC Emmen,n-122,,13.58m,De Oude Meerdijk,30,25.8,3,0.0,14
+643,c-385,Fortuna Sittard,n-122,,22.53m,Fortuna Sittard Stadion,26,25.8,2,400000.0,18
+644,c-1426,VVV-Venlo,n-122,,7.98m,Covebo Stadion - De Koel ,28,22.9,0,0.0,7
+645,c-235,RKC Waalwijk,n-122,,13.68m,Mandemakers Stadion,28,26.1,5,3000000.0,16
+646,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+647,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+648,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+649,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+650,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+651,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+652,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+653,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+654,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+655,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+656,c-385,Fortuna Sittard,n-122,,22.53m,Fortuna Sittard Stadion,26,25.8,2,400000.0,18
+657,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+658,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+659,c-468,Sparta Rotterdam,n-122,,18.13m,"Sparta-stadion ""Het Kasteel""",24,26.1,1,2190000.0,9
+660,c-1268,ADO Den Haag,n-122,,8.88m,Bingoal Stadion,34,23.5,4,0.0,9
+661,c-1283,FC Emmen,n-122,,13.58m,De Oude Meerdijk,30,25.8,3,0.0,14
+662,c-1426,VVV-Venlo,n-122,,7.98m,Covebo Stadion - De Koel ,28,22.9,0,0.0,7
+663,c-235,RKC Waalwijk,n-122,,13.68m,Mandemakers Stadion,28,26.1,5,3000000.0,16
+664,c-610,Ajax Amsterdam,n-122,,280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+665,c-383,PSV Eindhoven,n-122,,201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+666,c-234,Feyenoord Rotterdam,n-122,,183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+667,c-1090,AZ Alkmaar,n-122,,107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+668,c-499,Vitesse Arnhem,n-122,,39.68m,GelreDome,28,23.7,4,-1200000.0,13
+669,c-200,FC Utrecht,n-122,,50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+670,c-202,FC Groningen,n-122,,34.15m,Euroborg,29,22.9,5,15970000.0,14
+671,c-306,SC Heerenveen,n-122,,36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+672,c-317,Twente Enschede FC,n-122,,43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+673,c-468,Sparta Rotterdam,n-122,,18.13m,"Sparta-stadion ""Het Kasteel""",24,26.1,1,2190000.0,9
+674,c-1304,Heracles Almelo,n-122,,10.88m,Erve Asito,29,24.2,0,5750000.0,18
+675,c-385,Fortuna Sittard,n-122,,22.53m,Fortuna Sittard Stadion,26,25.8,2,400000.0,18
+676,c-403,Willem II Tilburg,n-122,,9.40m,Koning Willem II Stadion,27,25.9,0,385000.0,7
+677,c-467,NEC Nijmegen,n-122,,21.68m,Goffertstadion,27,24.2,1,-1000000.0,9
+678,c-1269,PEC Zwolle,n-122,,12.28m,MAC³PARK stadion,34,24.2,2,2530000.0,10
+679,c-1435,Go Ahead Eagles,n-122,,12.23m,De Adelaarshorst,27,23.4,0,750000.0,11
+680,c-133,SC Cambuur Leeuwarden,n-122,,16.73m,Cambuurstadion,30,25.8,5,-550000.0,12
+681,c-235,RKC Waalwijk,n-122,,13.68m,Mandemakers Stadion,28,26.1,5,3000000.0,16
+682,c-610,Ajax Amsterdam,n-122,"Mar 18, 1900",280.15m,Johan Cruijff ArenA,26,24.3,15,103520000.0,11
+683,c-383,PSV Eindhoven,n-122,"Aug 31, 1913",201.60m,Philips Stadion,24,25.6,8,83750000.0,14
+684,c-234,Feyenoord Rotterdam,n-122,"Jul 19, 1908",183.00m,"Stadion Feyenoord ""De Kuip""",27,23.5,13,35130000.0,16
+685,c-1090,AZ Alkmaar,n-122,"May 10, 1967",107.90m,AFAS Stadion,28,23.1,8,8210000.000000001,11
+686,c-200,FC Utrecht,n-122,"Jul 1, 1970",50.83m,"Stadion ""Galgenwaard""",30,25.6,5,8800000.0,13
+687,c-317,Twente Enschede FC,n-122,"Jul 1, 1965",43.83m,De Grolsch Veste,24,25.4,4,-500000.0,10
+688,c-499,Vitesse Arnhem,n-122,"May 14, 1892",39.68m,GelreDome,28,23.7,4,-1200000.0,13
+689,c-306,SC Heerenveen,n-122,"Jul 20, 1920",36.20m,Abe Lenstra Stadion,26,24.7,2,4950000.0,12
+690,c-202,FC Groningen,n-122,"Jun 16, 1971",34.15m,Euroborg,29,22.9,5,15970000.0,14
+691,c-385,Fortuna Sittard,n-122,"Jul 1, 1968",22.53m,Fortuna Sittard Stadion,26,25.8,2,400000.0,18
+692,c-467,NEC Nijmegen,n-122,"Nov 15, 1900",21.68m,Goffertstadion,27,24.2,1,-1000000.0,9
+693,c-468,Sparta Rotterdam,n-122,"Apr 1, 1888",18.13m,"Sparta-stadion ""Het Kasteel""",24,26.1,1,2190000.0,9
+694,c-133,SC Cambuur Leeuwarden,n-122,"Jun 19, 1964",16.73m,Cambuurstadion,30,25.8,5,-550000.0,12
+695,c-798,Excelsior Rotterdam,n-122,"Jul 23, 1902",14.68m,Van Donge & De Roo Stadion - Woudestein,28,23.6,1,2630000.0,10
+696,c-724,FC Volendam,n-122,"Jun 1, 1977",14.30m,Kras Stadion,32,22.7,0,0.0,13
+697,c-235,RKC Waalwijk,n-122,"Aug 26, 1940",13.68m,Mandemakers Stadion,28,26.1,5,3000000.0,16
+698,c-1283,FC Emmen,n-122,"Aug 21, 1925",13.58m,De Oude Meerdijk,30,25.8,3,0.0,14
+699,c-1435,Go Ahead Eagles,n-122,"Dec 2, 1902",12.23m,De Adelaarshorst,27,23.4,0,750000.0,11
