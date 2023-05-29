@@ -1,0 +1,264 @@
+id,name,teams_number,market_value,players_number,avg_age,foreigners,country_id
+ligue-1,Ligue 1,,,,,,50
+ligue-2,Ligue 2,,,,,,50
+championnat-national,Championnat National,,,,,,50
+championnat-national-2-groupe-a,CFA - Grp. A,,,,,,50
+championnat-national-2-groupe-b,CFA - Grp. B,,,,,,50
+championnat-national-2-groupe-c,CFA - Grp. C,,,,,,50
+championnat-national-2-groupe-d,CFA - Grp. D,,,,,,50
+coupe-de-france,Coupe de France,,,,,,50
+trophee-des-champions,Trophée des Champions,,,,,,50
+coupe-de-la-ligue,Coupe de la Ligue,,,,,,50
+coupe-gambardella,Coupe Gambardella,,,,,,50
+championnat-national-3-paris-ile-de-france,N3 - Paris Île-de-Fr.,,,,,,50
+relegation-ligue-1,Rel. Ligue 1,,,,,,50
+relegation-ligue-2,Rel. Ligue 2,,,,,,50
+laliga,LaLiga,,,,,,157
+laliga2,LaLiga SmartBank,,,,,,157
+segunda-division-b-grupo-i-bis-20-21-,2ª B - Grupo I,,,,,,157
+segunda-division-b-grupo-ii-bis-20-21-,2ª B - Grupo II,,,,,,157
+segunda-division-b-grupo-iii-bis-20-21-,2ª B - Grupo III,,,,,,157
+segunda-division-b-grupo-iv-bis20-21-,2ª B - Grupo IV,,,,,,157
+copa-del-rey,Copa del Rey,,,,,,157
+supercopa,Supercopa,,,,,,157
+promocion-de-ascenso-a-segunda-division-b,Seg. B Play-off,,,,,,157
+aufstiegs-playoff-laliga,Promoción LaLiga,,,,,,157
+aufstiegs-playoff-laliga2,Ascenso LaLiga2,,,,,,157
+copa-real-federacion-espanola-de-futbol,Copa Federation,,,,,,157
+abstiegs-playoffs-segunda-division-b,Permanencia 2ª Federación,,,,,,157
+championnat-national-3-auvergne-rhone-alpes,N3 - Auvergne-Rhône-A.,,,,,,50
+championnat-national-3-bourgogne-franche-comte,N3 - Bourg.-Fr.-Comté,,,,,,50
+championnat-national-3-bretagne,N3 - Bretagne,,,,,,50
+championnat-national-3-corse-mediterranee,N3 - Corse-Méditer.,,,,,,50
+championnat-national-3-grand-est,N3 - Grand Est,,,,,,50
+championnat-national-3-hauts-de-france,N3 - Hauts-de-France,,,,,,50
+championnat-national-3-nouvelle-aquitaine,N3 - Nouvelle-Aqu.,,,,,,50
+championnat-national-3-normandie,N3 - Normandie,,,,,,50
+championnat-national-3-occitanie,N3 - Occitanie,,,,,,50
+championnat-national-3-pays-de-la-loire,N3 - P. de la Loire,,,,,,50
+championnat-national-3-centre-val-de-loire,N3 - Centre-Val de Loire,,,,,,50
+segunda-division-b-grupo-v-bis-20-21-,2ª B - Grupo V,,,,,,157
+segunda-division-b-aufstiegsphase,2ª B - Fase de ascenso,,,,,,157
+segunda-division-b-abstiegsrunde,2ª B - Fase de descenso,,,,,,157
+segunda-division-b-zwischenphase,2ª B - Fase intermedia,,,,,,157
+serie-a,Serie A,,,,,,75
+serie-b,Serie B,,,,,,75
+serie-c-girone-a,Serie C-A,,,,,,75
+serie-c-girone-b,Serie C-B,,,,,,75
+serie-c-girone-c,Serie C-C,,,,,,75
+serie-d-girone-a,Serie D - A,,,,,,75
+serie-d-girone-b,Serie D - B,,,,,,75
+serie-d-girone-c,Serie D - C,,,,,,75
+serie-d-girone-d,Serie D - D,,,,,,75
+serie-d-girone-e,Serie D - E,,,,,,75
+serie-d-girone-f,Serie D - F,,,,,,75
+serie-d-girone-g,Serie D - G,,,,,,75
+serie-d-girone-h,Serie D - H,,,,,,75
+serie-d-girone-i,Serie D - I,,,,,,75
+primavera-1,Primavera 1,,,,,,75
+primavera-2a,Primavera 2 - A,,,,,,75
+primavera-2b,Primavera 2 - B,,,,,,75
+campionato-nazionale-under-18,Under 18,,,,,,75
+campionato-nazionale-under-17-a,Under 17 - A,,,,,,75
+campionato-nazionale-under-17-b,Under 17 - B,,,,,,75
+campionato-nazionale-under-17-c,Under 17 - C,,,,,,75
+coppa-italia,Italy Cup,,,,,,75
+supercoppa-italiana,Supercoppa Italiana,,,,,,75
+coppa-italia-primavera,Coppa Primavera,,,,,,75
+play-off-serie-c,Playoff Serie C,,,,,,75
+play-out-serie-c,Playout Serie C,,,,,,75
+serie-b-playoff,Serie B Play-off,,,,,,75
+serie-b-play-out,Serie B Play-out,,,,,,75
+viareggio-cup,Viareggio Cup,,,,,,75
+coppa-italia-serie-c,Coppa Serie C,,,,,,75
+coppa-italia-serie-d,Coppa Serie D,,,,,,75
+supercoppa-primavera,Supercoppa Primavera,,,,,,75
+campionato-primavera-finalrunde,Primavera Fase Finale,,,,,,75
+play-off-out-primavera,Play-off/out U19,,,,,,75
+campionato-nazionale-under-18-fase-finale,Under 18 - Finals,,,,,,75
+campionato-under-17-finalrunde,Under 17 - Finals,,,,,,75
+meisterrunde-serie-d-,Meisterrunde,,,,,,75
+serie-d-play-out,Serie D play-out,,,,,,75
+serie-d-play-off,Play-off Serie D,,,,,,75
+supercoppa-di-serie-c,Superc. Serie C,,,,,,75
+supercoppa-primavera-2,Supercoppa Primavera 2,,,,,,75
+supercoppa-under-17,Supercoppa U17,,,,,,75
+primera-division-r-f-e-f-grupo-i,Primera Federación - Gr. I,,,,,,157
+primera-division-r-f-e-f-grupo-ii,Primera Federación - Gr. II,,,,,,157
+segunda-division-r-f-e-f-grupo-i,Segunda Federación - Gr. I,,,,,,157
+segunda-division-r-f-e-f-grupo-ii,Segunda Federación - Gr. II,,,,,,157
+segunda-division-r-f-e-f-grupo-iii,Segunda Federación - Gr. III,,,,,,157
+segunda-division-r-f-e-f-grupo-iv,Segunda Federación - Gr. IV,,,,,,157
+segunda-division-r-f-e-f-grupo-v,Segunda Federación - Gr. V,,,,,,157
+promocion-de-ascenso-a-primera-rfef,Promoción 1ª Federación,,,,,,157
+premier-league,Premier League,,,,,,189
+championship,Championship,,,,,,189
+league-one,League One,,,,,,189
+league-two,League Two,,,,,,189
+u18-premier-league,U18 Premier League,,,,,,189
+national-league,National League,,,,,,189
+fa-cup,FA Cup,,,,,,189
+efl-cup,EFL Cup,,,,,,189
+community-shield,Community Shield,,,,,,189
+national-league-north,National League North,,,,,,189
+national-league-south,National League South,,,,,,189
+fa-youth-cup,FA Youth Cup,,,,,,189
+championship-playoffs,Championship Play-Offs,,,,,,189
+national-league-playoffs,National League Playoffs,,,,,,189
+u18-premier-league-final-stage,U18 PL - Final Stage,,,,,,189
+premier-league-2-playoffs,PL2 Playoffs,,,,,,189
+league-two-playoffs,League Two Play-Offs,,,,,,189
+league-one-playoffs,League One Play-Offs,,,,,,189
+premier-league-2,Premier League 2,,,,,,189
+efl-trophy,EFL Trophy,,,,,,189
+national-league-south-playoff,NL South Play-offs,,,,,,189
+national-league-north-playoff,NL North Play-offs,,,,,,189
+campionato-nazionale-under-17-2020-21,Under 17 20/21,,,,,,75
+bundesliga,Bundesliga,,,,,,40
+2-bundesliga,2. Bundesliga,,,,,,40
+3-liga,3. Liga,,,,,,40
+regionalliga-bayern,Regionalliga Bayern,,,,,,40
+regionalliga-nord,Regionalliga Nord,,,,,,40
+regionalliga-nordost,Regionalliga Northeast,,,,,,40
+regionalliga-sudwest,Regionalliga Südwest,,,,,,40
+regionalliga-west,Regionalliga West,,,,,,40
+a-junioren-bundesliga-nord-nordost,U19-BL N/NE,,,,,,40
+a-junioren-bundesliga-west,U19-Bundesliga West,,,,,,40
+a-junioren-bundesliga-sud-sudwest,U19-Bundesliga S/SW,,,,,,40
+b-junioren-bundesliga-nord-nordost,U17-BL N/NE,,,,,,40
+b-junioren-bundesliga-west,U17-Bundesliga West,,,,,,40
+b-junioren-bundesliga-sud-sudwest,U17-Bundesliga South/Southwest,,,,,,40
+oberliga-baden-wurttemberg,Oberliga Baden-Württemberg,,,,,,40
+hessenliga,Hessenliga,,,,,,40
+oberliga-hamburg,Oberliga Hamburg,,,,,,40
+bayernliga-nord,Bayernliga Nord,,,,,,40
+bayernliga-sud,Bayernliga Süd,,,,,,40
+mittelrheinliga,Mittelrheinliga,,,,,,40
+oberliga-niederrhein,Oberliga Niederrhein,,,,,,40
+oberliga-rheinland-pfalz-saar,OL RP/Saar,,,,,,40
+oberliga-westfalen,Oberliga Westfalen,,,,,,40
+nofv-oberliga-nord,NOFV-Oberliga Nord,,,,,,40
+nofv-oberliga-sud,NOFV-Oberliga Süd,,,,,,40
+bremenliga,Bremenliga,,,,,,40
+oberliga-schleswig-holstein,Oberliga Schleswig-Holstein,,,,,,40
+oberliga-niedersachsen,OL Niedersachsen,,,,,,40
+dfb-pokal,DFB-Pokal,,,,,,40
+dfl-supercup,DFL-Supercup,,,,,,40
+brandenburgliga,Brandenburgliga,,,,,,40
+landesliga-bayern-mitte,LL Bayern-Mitte,,,,,,40
+landesliga-bayern-nordost,LL Bayern-N/O,,,,,,40
+landesliga-bayern-nordwest,LL Bayern-N/W,,,,,,40
+landesliga-bayern-sudost,LL Bayern-S/O,,,,,,40
+landesliga-bremen,Landesliga Bremen,,,,,,40
+landesliga-holstein,Landesliga Holstein,,,,,,40
+landesliga-luneburg,LL Lüneburg,,,,,,40
+landesliga-mittelrhein-staffel-1,LL Mittelr. 1,,,,,,40
+landesliga-mittelrhein-staffel-2,LL Mittelr. 2,,,,,,40
+schroder-liga-saar,Saarlandliga,,,,,,40
+landesliga-schleswig,Landesliga Schleswig,,,,,,40
+landesliga-braunschweig,LL Braunschweig,,,,,,40
+landesliga-hannover,LL Hannover,,,,,,40
+landesliga-niederrhein-gruppe-1,LL Niederrhein-Gr. 1,,,,,,40
+landesliga-niederrhein-gruppe-2,LL Niederrhein-Gr. 2,,,,,,40
+landesliga-weser-ems,LL Weser-Ems,,,,,,40
+rheinlandliga,Rheinlandliga,,,,,,40
+landesliga-sachsen,Sachsenliga,,,,,,40
+thuringenliga,Thüringenliga,,,,,,40
+verbandsliga-nordbaden,VL Nordbaden,,,,,,40
+berlin-liga,Berlin-Liga,,,,,,40
+verbandsliga-wurttemberg,VL Württemberg,,,,,,40
+verbandsliga-hessen-mitte,VL Hessen-Mitte,,,,,,40
+verbandsliga-hessen-nord,VL Hessen-Nord,,,,,,40
+verbandsliga-hessen-sud,VL Hessen-Süd,,,,,,40
+verbandsliga-mecklenburg-vorpommern,VL Meckl.-Vorpommern,,,,,,40
+verbandsliga-sachsen-anhalt,VL Sachsen-Anhalt,,,,,,40
+verbandsliga-sudbaden-beta-,VL Südbaden,,,,,,40
+verbandsliga-sudwest,VL Südwest,,,,,,40
+westfalenliga-1,Westfalenliga 1,,,,,,40
+westfalenliga-2,Westfalenliga 2,,,,,,40
+landesliga-bayern-sudwest,LL Bayern-S/W,,,,,,40
+landesliga-hansa,Landesliga Hansa,,,,,,40
+landesliga-hammonia,Landesliga Hammonia,,,,,,40
+dfb-pokal-der-junioren,DFB-Pokal der Junioren,,,,,,40
+relegation-1-bundesliga,Bundesliga Playoffs,,,,,,40
+relegation-2-bundesliga,Relegation 2. Bundesliga,,,,,,40
+qualifikationsspiel-zum-dfb-pokal-flvw-,DFB-Pokal-Quali,,,,,,40
+aufstiegsrunde-zur-3-liga,Aufstiegsrunde zur 3. Liga,,,,,,40
+landespokal-mittelrhein,Mittelrheinpokal,,,,,,40
+landespokal-sachsen,Sachsenpokal,,,,,,40
+landespokal-wurttemberg,Württembergpokal,,,,,,40
+landespokal-brandenburg,Brandenburgpokal,,,,,,40
+landespokal-bremen,Bremenpokal,,,,,,40
+landespokal-mecklenburg-vorpommern,Mecklenburg-Vorpommern-Pokal,,,,,,40
+landespokal-niedersachsen-3-und-4-liga-,Niedersachsenpokal (3. und 4. Liga),,,,,,40
+landespokal-niedersachsen-amateure-,Niedersachsenpokal (Amateure),,,,,,40
+landespokal-niederrhein,Niederrheinpokal,,,,,,40
+landespokal-hamburg,Hamburgpokal,,,,,,40
+landespokal-sachsen-anhalt,Sachsen-Anhalt-Pokal,,,,,,40
+landespokal-thuringen,Thüringenpokal,,,,,,40
+landespokal-westfalen,Westfalenpokal,,,,,,40
+landespokal-baden,Badenpokal,,,,,,40
+landespokal-hessen,Hessenpokal,,,,,,40
+landespokal-sudbaden,SBFV-Rothaus-Pokal,,,,,,40
+landespokal-sudwest,Südwestpokal,,,,,,40
+landespokal-bayern,Bayernpokal,,,,,,40
+landespokal-berlin,Berliner Pokal,,,,,,40
+landespokal-rheinland,Rheinlandpokal,,,,,,40
+landespokal-saarland,Saarlandpokal,,,,,,40
+landespokal-schleswig-holstein,Schleswig-Holstein-Pokal,,,,,,40
+campionato-primavera-girone-a,Primavera A,,,,,,75
+campionato-primavera-girone-b,Primavera B,,,,,,75
+campionato-primavera-girone-c,Primavera C,,,,,,75
+landesliga-niederrhein-gruppe-3,LL Niederrhein-Gr. 3,,,,,,40
+landesliga-schleswig-holstein-mitte,Landesliga SH Mitte,,,,,,40
+ligapokal-regionalliga-bayern,Ligapokal RL Bayern,,,,,,40
+aufstiegsrunde-zur-nofv-oberliga,Aufstiegsr. NOFV-Oberliga,,,,,,40
+a-junioren-relegation-sud-sudwest,U19-Relegation Süd/Südwest,,,,,,40
+b-junioren-relegation-sud-sudwest,U17-Relegation Süd/Südwest,,,,,,40
+ligapokal-landesliga-bayern-sudost,Ligapokal LL Bayern SO,,,,,,40
+a-junioren-bundesliga-endrunde,U19-Bundesliga Endrunde,,,,,,40
+b-junioren-bundesliga-endrunde,U17-Bundesliga Endrunde,,,,,,40
+aufstiegsrunde-zur-oberliga-baden-wurttemberg,Aufstiegsr. OL Ba-Wü,,,,,,40
+aufstiegsrunde-zur-hessenliga,Aufstiegsr. Hessenliga,,,,,,40
+aufstiegsrunde-zur-oberliga-rheinland-pfalz-saar,Aufstiegsr. OL RLP/Saar,,,,,,40
+relegation-zur-bayernliga,Relegation zur Bayernliga,,,,,,40
+aufstiegsrunde-zur-landesliga-niederrhein,Playoffs LL,,,,,,40
+relegation-verbandsliga-hessen,Rel. VL Hessen,,,,,,40
+abstiegsrelegation-westfalenliga,Abstiegsrel. Westfalenliga,,,,,,40
+aufstiegsrunde-zur-oberliga-hamburg,Aufstiegsr. OL HH,,,,,,40
+nofv-oberliga-abstiegsrunde,NOFV-Oberliga Abstiegsrunde,,,,,,40
+aufstiegsrunde-zur-regionalliga-nord,Aufstiegsrunde zur RL Nord,,,,,,40
+relegation-regionalliga-nord,Rel. RL Nord,,,,,,40
+b-junioren-relegation-nord-nordost,U17-Relegation Nord/Nordost,,,,,,40
+a-junioren-relegation-nord-nordost,U19-Relegation Nord/Nordost,,,,,,40
+aufstiegsrunde-zur-regionalliga-bayern,Aufstiegsrunde RL Bayern,,,,,,40
+aufstiegsrunde-zur-regionalliga-sudwest,Aufstiegsrunde zur Regionalliga Südwest,,,,,,40
+regionalliga-nord-abstiegsrunde,OL Niedersachsen Playoff,,,,,,40
+hessenliga-endrunde,Hessenliga - Finals,,,,,,40
+oberliga-niederrhein-endrunde,OL Niederrhein - Endr.,,,,,,40
+oberliga-rheinland-pfalz-saar-endrunde,OL RP/Saar - Finals,,,,,,40
+landesliga-hannover-endrunde,LL Hannover - Finals,,,,,,40
+landesiga-luneburg-endrunde,LL Lüneburg - Finals,,,,,,40
+landesliga-weser-ems-endrunde,LL Weser-Ems - Finals,,,,,,40
+landesliga-hamburg-ab-2021-22-,Landesliga Hamburg,,,,,,40
+a-junioren-ligapokal-west,U19 Ligapokal West,,,,,,40
+b-junioren-ligapokal-west,U17 Ligapokal West,,,,,,40
+aufstiegsrunde-zur-oberliga-westfalen,Aufstiegsr. OL Westf.,,,,,,40
+aufstiegsrunde-zur-berlin-liga,Aufstiegsr. Berlin-Liga,,,,,,40
+landesliga-bayern-nordost-endrunde,LL Bayern NO - Finals,,,,,,40
+landesliga-bayern-nordwest-endrunde,LL Bayern NW - Finals,,,,,,40
+verbandsliga-sachsen-anhalt-endrunde,VL Sachsen-Anhalt - Finals,,,,,,40
+verbandsliga-sudwest-endrunde,VL Südwest - Finals,,,,,,40
+regionalliga-nord-meisterrunde,RL Nord Playoffs,,,,,,40
+oberliga-westfalen-endrunde,OL Westf. - Finals,,,,,,40
+oberliga-schleswig-holstein-abstiegsrunde,OL Hamburg Playoff,,,,,,40
+oberliga-schleswig-holstein-meisterrunde,OL Schleswig-Holstein Playoffs,,,,,,40
+relegationsrunde-zur-oberliga-niederrhein,Playoffs OL,,,,,,40
+aufstiegsrunde-zur-schleswig-holstein-liga,Aufstiegsr. OL SH,,,,,,40
+niedersachsenpokal-bis-17-18-,NDS-Pokal,,,,,,40
+verbandsliga-schleswig-holstein-sud-ost,Verbandsliga SH Süd-Ost,,,,,,40
+verbandsliga-schleswig-holstein-nord-ost,Verbandsliga SH Nord-Ost,,,,,,40
+verbandsliga-schleswig-holstein-nord-west-beta-,Verbandsliga SH Nord-West,,,,,,40
+verbandsliga-schleswig-holstein-sud-west-beta-,Verbandsliga SH Süd-West,,,,,,40
+aufstiegsrunde-zur-landesliga-schleswig-holstein,Aufstiegsr. Landesliga,,,,,,40
+aufstiegsrunde-zur-regionalliga-nordost,Aufstiegsrunde zur RL Nordost,,,,,,40
