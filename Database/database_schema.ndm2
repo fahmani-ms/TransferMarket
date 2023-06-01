@@ -838,7 +838,59 @@
               "indexMethod": "",
               "comment": ""
             },
-            "foreignKeys": [],
+            "foreignKeys": [
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_players_season_players_1",
+                "fields": [
+                  "player_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "players",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              },
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_players_season_clubs_1",
+                "fields": [
+                  "club_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "clubs",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              },
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_players_season_national_1",
+                "fields": [
+                  "current_international"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "national",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              }
+            ],
             "checks": [],
             "triggers": [],
             "tablePartitions": []
@@ -1634,7 +1686,42 @@
               "indexMethod": "",
               "comment": ""
             },
-            "foreignKeys": [],
+            "foreignKeys": [
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_clubs_season_clubs_1",
+                "fields": [
+                  "club_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "clubs",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              },
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_clubs_season_competitions_1",
+                "fields": [
+                  "competition_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "competitions",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              }
+            ],
             "checks": [],
             "triggers": [],
             "tablePartitions": []
@@ -1889,7 +1976,59 @@
               "indexMethod": "",
               "comment": ""
             },
-            "foreignKeys": [],
+            "foreignKeys": [
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_transfers_players_1",
+                "fields": [
+                  "player_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "players",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              },
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_transfers_clubs_1",
+                "fields": [
+                  "origin_club_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "clubs",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              },
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_transfers_clubs_2",
+                "fields": [
+                  "destination_club_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "clubs",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              }
+            ],
             "checks": [],
             "triggers": [],
             "tablePartitions": []
@@ -2295,7 +2434,25 @@
               "indexMethod": "",
               "comment": ""
             },
-            "foreignKeys": [],
+            "foreignKeys": [
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_competitions_national_1",
+                "fields": [
+                  "country_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "national",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              }
+            ],
             "checks": [],
             "triggers": [],
             "tablePartitions": []
@@ -2784,7 +2941,42 @@
               "indexMethod": "",
               "comment": ""
             },
-            "foreignKeys": [],
+            "foreignKeys": [
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_players_clubs_1",
+                "fields": [
+                  "current_club_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "clubs",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              },
+              {
+                "objectType": "ForeignKey_MYSQL",
+                "name": "fk_players_national_1",
+                "fields": [
+                  "national_id"
+                ],
+                "referenceSchema": "default",
+                "referenceTable": "national",
+                "referenceFields": [
+                  "id"
+                ],
+                "onDelete": "",
+                "onUpdate": "",
+                "sourceCardinality": "NoneRelationship",
+                "targetCardinality": "NoneRelationship",
+                "oldName": ""
+              }
+            ],
             "checks": [],
             "triggers": [],
             "tablePartitions": []
@@ -2812,10 +3004,10 @@
           "type": "table",
           "schemaName": "default",
           "tableName": "players",
-          "x": 40,
-          "y": 60,
+          "x": 80,
+          "y": 260,
           "width": 200,
-          "height": 410,
+          "height": 360,
           "isBold": false,
           "titleColor": {
             "r": 55,
@@ -2828,10 +3020,10 @@
           "type": "table",
           "schemaName": "default",
           "tableName": "clubs",
-          "x": 460,
-          "y": 60,
+          "x": 320,
+          "y": 260,
           "width": 200,
-          "height": 410,
+          "height": 360,
           "isBold": false,
           "titleColor": {
             "r": 55,
@@ -2844,10 +3036,10 @@
           "type": "table",
           "schemaName": "default",
           "tableName": "national",
-          "x": 250,
-          "y": 500,
+          "x": 320,
+          "y": 650,
           "width": 200,
-          "height": 200,
+          "height": 240,
           "isBold": false,
           "titleColor": {
             "r": 55,
@@ -2860,10 +3052,10 @@
           "type": "table",
           "schemaName": "default",
           "tableName": "competitions",
-          "x": 460,
-          "y": 500,
+          "x": 550,
+          "y": 660,
           "width": 200,
-          "height": 200,
+          "height": 230,
           "isBold": false,
           "titleColor": {
             "r": 55,
@@ -2876,10 +3068,10 @@
           "type": "table",
           "schemaName": "default",
           "tableName": "clubs_season",
-          "x": 670,
-          "y": 60,
+          "x": 550,
+          "y": 260,
           "width": 200,
-          "height": 410,
+          "height": 370,
           "isBold": false,
           "titleColor": {
             "r": 55,
@@ -2892,10 +3084,10 @@
           "type": "table",
           "schemaName": "default",
           "tableName": "players_season",
-          "x": 250,
-          "y": 60,
+          "x": 80,
+          "y": 650,
           "width": 200,
-          "height": 410,
+          "height": 240,
           "isBold": false,
           "titleColor": {
             "r": 55,
@@ -2908,8 +3100,8 @@
           "type": "table",
           "schemaName": "default",
           "tableName": "transfers",
-          "x": 40,
-          "y": 500,
+          "x": 320,
+          "y": 30,
           "width": 200,
           "height": 200,
           "isBold": false,
@@ -2922,7 +3114,430 @@
         }
       ],
       "layers": [],
-      "relations": [],
+      "relations": [
+        {
+          "name": "fk_players_clubs_1",
+          "sourceTableName": "players",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 295,
+              "y": 460
+            },
+            {
+              "x": 305,
+              "y": 460
+            }
+          ],
+          "label": {
+            "x": 202,
+            "y": 422,
+            "width": 128,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_players_national_1",
+          "sourceTableName": "players",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 65,
+              "y": 460
+            },
+            {
+              "x": 40,
+              "y": 460
+            },
+            {
+              "x": 40,
+              "y": 750
+            },
+            {
+              "x": 305,
+              "y": 750
+            }
+          ],
+          "label": {
+            "x": 75,
+            "y": 422,
+            "width": 149,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_transfers_players_1",
+          "sourceTableName": "transfers",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 305,
+              "y": 130
+            },
+            {
+              "x": 180,
+              "y": 130
+            },
+            {
+              "x": 180,
+              "y": 245
+            }
+          ],
+          "label": {
+            "x": 321,
+            "y": 102,
+            "width": 150,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_transfers_clubs_1",
+          "sourceTableName": "transfers",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 435,
+              "y": 245
+            },
+            {
+              "x": 435,
+              "y": 245
+            }
+          ],
+          "label": {
+            "x": 437,
+            "y": 195,
+            "width": 138,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_transfers_clubs_2",
+          "sourceTableName": "transfers",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 405,
+              "y": 245
+            },
+            {
+              "x": 405,
+              "y": 245
+            }
+          ],
+          "label": {
+            "x": 407,
+            "y": 195,
+            "width": 138,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_competitions_national_1",
+          "sourceTableName": "competitions",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 535,
+              "y": 740
+            },
+            {
+              "x": 415,
+              "y": 740
+            },
+            {
+              "x": 655,
+              "y": 750
+            },
+            {
+              "x": 535,
+              "y": 750
+            }
+          ],
+          "label": {
+            "x": 355,
+            "y": 702,
+            "width": 190,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_clubs_season_clubs_1",
+          "sourceTableName": "clubs_season",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 535,
+              "y": 460
+            },
+            {
+              "x": 535,
+              "y": 460
+            }
+          ],
+          "label": {
+            "x": 377,
+            "y": 422,
+            "width": 168,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_clubs_season_competitions_1",
+          "sourceTableName": "clubs_season",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 650,
+              "y": 645
+            },
+            {
+              "x": 650,
+              "y": 640
+            },
+            {
+              "x": 650,
+              "y": 640
+            },
+            {
+              "x": 650,
+              "y": 645
+            }
+          ],
+          "label": {
+            "x": 431,
+            "y": 595,
+            "width": 221,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_players_season_players_1",
+          "sourceTableName": "players_season",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 180,
+              "y": 635
+            },
+            {
+              "x": 180,
+              "y": 675
+            },
+            {
+              "x": 180,
+              "y": 675
+            },
+            {
+              "x": 180,
+              "y": 635
+            }
+          ],
+          "label": {
+            "x": 80,
+            "y": 605,
+            "width": 192,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_players_season_clubs_1",
+          "sourceTableName": "players_season",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 295,
+              "y": 750
+            },
+            {
+              "x": 440,
+              "y": 750
+            },
+            {
+              "x": 440,
+              "y": 635
+            }
+          ],
+          "label": {
+            "x": 105,
+            "y": 712,
+            "width": 180,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        },
+        {
+          "name": "fk_players_season_national_1",
+          "sourceTableName": "players_season",
+          "sourceSchemaName": "default",
+          "lineWidth": 1,
+          "visible": true,
+          "vertices": [
+            {
+              "x": 295,
+              "y": 750
+            },
+            {
+              "x": 480,
+              "y": 750
+            },
+            {
+              "x": 280,
+              "y": 750
+            },
+            {
+              "x": 305,
+              "y": 750
+            }
+          ],
+          "label": {
+            "x": 183,
+            "y": 712,
+            "width": 201,
+            "height": 30,
+            "fontName": "Arial Unicode MS",
+            "fontSize": 14,
+            "fontColor": {
+              "r": 51,
+              "g": 51,
+              "b": 51,
+              "a": 1
+            },
+            "isFontBold": false,
+            "isFontItalic": false,
+            "isVisible": false
+          }
+        }
+      ],
       "viewRelations": []
     }
   ]
